@@ -11,7 +11,7 @@ SHA256: 3A0314738CD70F9688E67298A58CEF0C926F74FCFC739C51B58C92CC2E39DA5B
 Section: Tweaks
 Description: awesome multitasking gestures and more. / 功能强大的多任务手势。
 Author: Ma Jun
-Depiction: http://uwotm8.github.io/Depic/com.uwotm8.tage/index.html
+Depiction: http://uwotm8.github.io/depic/com.uwotm8.tage/index.html
 Name: Tage
 
 Package: com.uwotm8.appinfo
@@ -26,7 +26,7 @@ SHA256: 448E1DC0CC2A92A1E5367189E86F743F075A46145486893D2E78964FF79669E3
 Section: Utilities
 Description: Useful tool that you might need.
 Author: Miles Kabal
-Depiction: http://uwotm8.github.io/Depic/com.uwotm8.appinfo/index.html
+Depiction: http://uwotm8.github.io/depic/com.uwotm8.appinfo/index.html
 Name: AppInfo [BETA]
 Depends: mobilesubstrate
 
@@ -38,7 +38,7 @@ Section: Tweaks
 Size: 54166
 Package: com.uwotm8.dominationhack
 Filename: debs//com.uwotm8.dominationhack.deb
-Depiction: http://uwotm8.github.io/Depic/com.uwotm8.dominationhack/index.html
+Depiction: http://uwotm8.github.io/depic/com.uwotm8.dominationhack/index.html
 MD5sum: D7A4D1EB0F8B5EF571C6FA22D4DD510E
 SHA1: 5DD5A983855C25F729AC8283EB49BE1CEA8FE23B
 SHA256: 805397F4D991E4320461468F85D1456D58DC9291D6C1A9AB1FBB1470E5CEA074
@@ -59,7 +59,7 @@ SHA256: 34357FF23917AD39571D16A6F73E658C8C29515E1A8F3D72BD42FA746B8A6F00
 Section: Themes
 Description: Fantastically colourful.
 Author: Purdixx
-Depiction: http://uwotm8.github.io/Depic/com.uwotm8.muze/index.html
+Depiction: http://uwotm8.github.io/depic/com.uwotm8.muze/index.html
 Name: Muze
 
 Name: MusicMod
@@ -70,7 +70,7 @@ Section: Tweaks
 Size: 3880040
 Package: com.uwotm8.musicmod
 Filename: debs//com.uwotm8.musicmod.deb
-Depiction: http://uwotm8.github.io/Depic/com.uwotm8.musicmod/index.html
+Depiction: http://uwotm8.github.io/depic/com.uwotm8.musicmod/index.html
 MD5sum: c8a3e51959a301b130661f494329be82
 SHA1: bac3894f00a772b7268e92a2af2b3e7516e7732a
 SHA256: d51dd2e99487627534706c1a74e85c51c97a9d6389d6b08647a8516f4f358278
@@ -86,7 +86,7 @@ Section: Themes
 Size: 4275246
 Package: com.uwotm8.jelly2
 Filename: debs//com.uwotm8.jelly2.deb
-Depiction: http://uwotm8.github.io/Depic/com.uwotm8.jelly2/index.html
+Depiction: http://uwotm8.github.io/depic/com.uwotm8.jelly2/index.html
 MD5sum: 7D5F0C3FB0CAA5CCE1CA65080B7F99B0
 SHA1: 5C314462872BAB6D580266158FD7BC15702A468F
 SHA256: 6FD29B74F3852703D5D15AD981E15F58F10F51921ECE36E3352F161AD9878F17
@@ -102,7 +102,7 @@ Section: Utilities
 Size: 168060
 Package: com.uwotm8.cracktool
 Filename: debs//com.uwotm8.cracktool.deb
-Depiction: http://uwotm8.github.io/Depic/com.uwotm8.cracktool/index.html
+Depiction: http://uwotm8.github.io/depic/com.uwotm8.cracktool/index.html
 MD5sum: F77E1CC588519657F9F786CF96B7C190
 SHA1: 122C12A1D96AC81E892DCC45D32F510814E0D134
 SHA256: 213AB88D7CA539A4A29E97C90A5E48C71466507E01D8295DC64D429BAAAF1467
