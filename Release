@@ -1,0 +1,9 @@
+Origin: u wot m8
+Label: u wot m8 
+Suite: stable
+Version: 1.0
+Codename: thetkaeo
+Architectures: iphoneos-arm
+Components: main
+Description: Personal repository with a shitload of crap.
+MD5Sum:
