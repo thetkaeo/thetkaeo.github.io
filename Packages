@@ -116,9 +116,9 @@ Version: 1.0.0
 Description: customizable locking system for apps & more
 Section: Tweaks
 Size: 309002
-Package: com.a3tweaks.asphaleia2
-Filename: debs//com.a3tweaks.asphaleia2.deb
-Depiction: http://thetkaeo.github.io/depic/com.a3tweaks.asphaleia2/index.html
+Package: com.uwotm8.asphaleia2
+Filename: debs//com.uwotm8.asphaleia2.deb
+Depiction: http://thetkaeo.github.io/depic/com.uwotm8.asphaleia2/index.html
 MD5sum: 7FB0E860C182DD5556EC4AB8F71729A6
 SHA1: F0F03E52F46827900DBB1CF3BC6073658CF1DBF5
 SHA256: EF659F5E43A992D6B239CF1F77A58648B9D44F387AB8B1558371819BEBEDA5F3
