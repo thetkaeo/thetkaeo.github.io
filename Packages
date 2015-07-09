@@ -103,25 +103,9 @@ Size: 168060
 Package: com.uwotm8.cracktool
 Filename: debs//com.uwotm8.cracktool.deb
 Depiction: http://thetkaeo.github.io/depic/com.uwotm8.cracktool/index.html
-MD5sum: F77E1CC588519657F9F786CF96B7C190
-SHA1: 122C12A1D96AC81E892DCC45D32F510814E0D134
-SHA256: 213AB88D7CA539A4A29E97C90A5E48C71466507E01D8295DC64D429BAAAF1467
+MD5sum: f77e1cc588519657f9f786cf96b7c190
+SHA1: 122c12a1d96ac81e892dcc45d32f510814e0d134
+SHA256: 213ab88d7ca539a4a29e97c90a5e48c71466507e01d8295dc64d429baaaf1467
 Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Maintainer: Admin
-
-Name: Asphaleia 2 (iOS 8)
-Author: A3tweaks
-Version: 1.0.0
-Description: customizable locking system for apps & more
-Section: Tweaks
-Size: 309002
-Package: com.uwotm8.asphaleia2
-Filename: debs//com.uwotm8.asphaleia2.deb
-Depiction: http://thetkaeo.github.io/depic/com.uwotm8.asphaleia2/index.html
-MD5sum: 7FB0E860C182DD5556EC4AB8F71729A6
-SHA1: F0F03E52F46827900DBB1CF3BC6073658CF1DBF5
-SHA256: EF659F5E43A992D6B239CF1F77A58648B9D44F387AB8B1558371819BEBEDA5F3
-Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist
 Architecture: iphoneos-arm
 Maintainer: Admin
