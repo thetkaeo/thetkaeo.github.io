@@ -94,18 +94,19 @@ Depends: mobilesubstrate, winterboard
 Architecture: iphoneos-arm
 Maintainer: Admin
 
-Name: CrackTool
-Author: JulioVerne
-Version: 2.0
-Description: Tool for free stuff.
-Section: Utilities
-Size: 168060
 Package: com.uwotm8.cracktool
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Admin	
+Depends: mobilesubstrate
 Filename: debs//com.uwotm8.cracktool.deb
-Depiction: http://thetkaeo.github.io/depic/com.uwotm8.cracktool/index.html
+Size: 168060
 MD5sum: f77e1cc588519657f9f786cf96b7c190
 SHA1: 122c12a1d96ac81e892dcc45d32f510814e0d134
 SHA256: 213ab88d7ca539a4a29e97c90a5e48c71466507e01d8295dc64d429baaaf1467
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Maintainer: Admin
+Section: Utilities
+Description: Crack Tweaks on one click.
+Author: JulioVerne
+Depiction: http://thetkaeo.github.io/Depic/com.uwotm8.cracktool/index.html
+Name: CrackTool
+
